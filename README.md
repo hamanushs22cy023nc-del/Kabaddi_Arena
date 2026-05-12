@@ -36,7 +36,7 @@ Image Export	FileProvider + Android Share Sheet
 Async	Kotlin Coroutines
 🚀 How to Run
 
-Clone the repo git clone https://github.com/Rayif18/KabaddiArena.git
+Clone the repo git clone https://github.com/hamanushs22cy023nc-del/Kabaddi_Arena.git
 Open in Android Studio
 Wait for Gradle sync
 Run on emulator or physical device (Android 7.0+)
